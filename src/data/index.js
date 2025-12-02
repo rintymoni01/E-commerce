@@ -2,19 +2,19 @@ export const data = {
   banner: [
     {
       to: "/link",
-      img: "../../images/banner/Banner_2.webp",
+      img: "/images/banner/Banner_2.webp",
       title: "First slide label",
       description: "Nulla vitae elit libero, a pharetra augue mollis interdum",
     },
     {
       to: "/link",
-      img: "../../images/banner/Banner_3.webp",
+      img: "/images/banner/Banner_3.webp",
       title: "Second slide label",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       to: "/link",
-      img: "../../images/banner/Banner_1.webp",
+      img: "/images/banner/Banner_1.webp",
       title: "Third slide label",
       description: " Praesent commodo cursus magna, vel scelerisque nisl.",
     },
@@ -91,7 +91,7 @@ export const data = {
       sku: "FAS-01",
       link: "/product/detail",
       name: "Great product name goes here",
-      img: "../../images/products/tshirt_red_480x400.webp",
+      img: "/images/products/tshirt_red_480x400.webp",
       price: 180,
       originPrice: 200,
       discountPrice: 20,
@@ -108,7 +108,7 @@ export const data = {
       sku: "FAS-02",
       link: "/product/detail",
       name: "Great product name goes here",
-      img: "../../images/products/tshirt_grey_480x400.webp",
+      img: "/images/products/tshirt_grey_480x400.webp",
       price: 475,
       originPrice: 0,
       discountPrice: 0,
@@ -125,7 +125,7 @@ export const data = {
       sku: "FAS-03",
       link: "/product/detail",
       name: "Great product name goes here",
-      img: "../../images/products/tshirt_black_480x400.webp",
+      img: "/images/products/tshirt_black_480x400.webp",
       price: 1900,
       originPrice: 2000,
       discountPrice: 100,
@@ -142,7 +142,7 @@ export const data = {
       sku: "FAS-04",
       link: "/product/detail",
       name: "Great product name goes here",
-      img: "../../images/products/tshirt_green_480x400.webp",
+      img: "/images/products/tshirt_green_480x400.webp",
       price: 10,
       originPrice: 0,
       discountPrice: 0,
@@ -158,19 +158,19 @@ export const data = {
   blogBanner: [
     {
       to: "/blog/detail",
-      img: "../../images/blog/nature-1.webp",
+      img: "/images/blog/nature-1.webp",
       title: "First slide label",
       description: "Nulla vitae elit libero, a pharetra augue mollis interdum",
     },
     {
       to: "/blog/detail",
-      img: "../../images/blog/nature-2.webp",
+      img: "/images/blog/nature-2.webp",
       title: "Second slide label",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       to: "/blog/detail",
-      img: "../../images/blog/nature-3.webp",
+      img: "/images/blog/nature-3.webp",
       title: "Third slide label",
       description: "Praesent commodo cursus magna, vel scelerisque nisl.",
     },
@@ -178,7 +178,7 @@ export const data = {
   blogList: [
     {
       to: "/blog/detail",
-      img: "../../images/blog/nature-1.webp",
+      img: "/images/blog/nature-1.webp",
       title:
         "It is a long established fact that a reader will be distracted by the readable content",
       description:
@@ -189,7 +189,7 @@ export const data = {
     },
     {
       to: "/blog/detail",
-      img: "../../images/blog/nature-2.webp",
+      img: "/images/blog/nature-2.webp",
       title:
         "Contrary to popular belief, Lorem Ipsum is not simply random text",
       description:
@@ -200,7 +200,7 @@ export const data = {
     },
     {
       to: "/",
-      img: "../../images/blog/nature-3.webp",
+      img: "/images/blog/nature-3.webp",
       title: "The standard chunk of Lorem Ipsum used since the 1500s",
       description:
         "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.",

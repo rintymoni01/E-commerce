@@ -103,7 +103,7 @@ class HomeView extends Component {
             <div className="col-md-3">
               <Link to="/" className="text-decoration-none">
                 <img
-                  src="../../images/category/male.webp"
+                  src="/images/category/male.webp"
                   className="img-fluid rounded-circle"
                   alt="..."
                 />

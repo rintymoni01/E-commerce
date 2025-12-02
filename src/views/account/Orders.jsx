@@ -10,7 +10,7 @@ const OrdersView = () => {
             <div className="row g-0">
               <div className="col-md-3 text-center">
                 <img
-                  src="../../images/products/tshirt_red_480x400.webp"
+                  src="/images/products/tshirt_red_480x400.webp"
                   className="img-fluid"
                   alt="..."
                 />
@@ -79,7 +79,7 @@ const OrdersView = () => {
             <div className="row g-0">
               <div className="col-md-3 text-center">
                 <img
-                  src="../../images/products/tshirt_grey_480x400.webp"
+                  src="/images/products/tshirt_grey_480x400.webp"
                   className="img-fluid"
                   alt="..."
                 />
@@ -137,7 +137,7 @@ const OrdersView = () => {
             <div className="row g-0">
               <div className="col-md-3 text-center">
                 <img
-                  src="../../images/products/tshirt_black_480x400.webp"
+                  src="/images/products/tshirt_black_480x400.webp"
                   className="img-fluid"
                   alt="..."
                 />
@@ -195,7 +195,7 @@ const OrdersView = () => {
             <div className="row g-0">
               <div className="col-md-3 text-center">
                 <img
-                  src="../../images/products/tshirt_green_480x400.webp"
+                  src="/images/products/tshirt_green_480x400.webp"
                   className="img-fluid"
                   alt="..."
                 />

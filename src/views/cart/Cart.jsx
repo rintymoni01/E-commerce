@@ -37,7 +37,7 @@ const CartView = () => {
                         <div className="row">
                           <div className="col-3 d-none d-md-block">
                             <img
-                              src="../../images/products/tshirt_red_480x400.webp"
+                              src="/images/products/tshirt_red_480x400.webp"
                               width="80"
                               alt="..."
                             />
@@ -96,7 +96,7 @@ const CartView = () => {
                         <div className="row">
                           <div className="col-3 d-none d-md-block">
                             <img
-                              src="../../images/products/tshirt_grey_480x400.webp"
+                              src="/images/products/tshirt_grey_480x400.webp"
                               width="80"
                               alt="..."
                             />

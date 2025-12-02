@@ -7,7 +7,7 @@ const BlogDetailView = () => {
     <div>
       <div className="card bg-dark text-white rounded-0 mb-3">
         <img
-          src="../../images/blog/nature-1.webp"
+          src="/images/blog/nature-1.webp"
           className="card-img rounded-0"
           alt="..."
         />
@@ -137,7 +137,7 @@ const BlogDetailView = () => {
               </li>
             </ol>
             <img
-              src="../../images/blog/nature-2.webp"
+              src="/images/blog/nature-2.webp"
               className="img-fluid"
               alt="..."
             />

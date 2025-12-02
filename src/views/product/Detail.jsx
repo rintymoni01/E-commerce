@@ -24,24 +24,24 @@ const ProductDetailView = () => {
           <div className="row mb-3">
             <div className="col-md-5 text-center">
               <img
-                src="../../images/products/tshirt_red_480x400.webp"
+                src="/images/products/tshirt_red_480x400.webp"
                 className="img-fluid mb-3"
                 alt=""
               />
               <img
-                src="../../images/products/tshirt_grey_480x400.webp"
+                src="/images/products/tshirt_grey_480x400.webp"
                 className="border border-secondary me-2"
                 width="75"
                 alt="..."
               />
               <img
-                src="../../images/products/tshirt_black_480x400.webp"
+                src="/images/products/tshirt_black_480x400.webp"
                 className="border border-secondary me-2"
                 width="75"
                 alt="..."
               />
               <img
-                src="../../images/products/tshirt_green_480x400.webp"
+                src="/images/products/tshirt_green_480x400.webp"
                 className="border border-secondary me-2"
                 width="75"
                 alt="..."
